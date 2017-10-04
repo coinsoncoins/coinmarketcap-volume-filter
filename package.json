@@ -1,0 +1,19 @@
+{
+  "name": "coinmarketcap-volume-filter",
+  "version": "1.0.0",
+  "description": "filter coins by 24-hour volume on coinmarketcap.com",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coinsoncoins/coinmarketcap-volume-filter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coinsoncoins/coinmarketcap-volume-filter/issues"
+  },
+  "homepage": "https://github.com/coinsoncoins/coinmarketcap-volume-filter#readme"
+}
